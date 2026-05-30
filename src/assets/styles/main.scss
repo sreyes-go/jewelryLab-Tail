@@ -7,6 +7,6 @@
  * Import dependencies
  */
 @use "dependencies";
-@use "theme";
 @use "components/custom-components";
 
+@import "./theme.css";

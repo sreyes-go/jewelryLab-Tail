@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blank: #fff;
+  --color-beige: #fbf3ef;
+  --color-light: #e3ded9;
+  --color-gold: #c6923f;
+  --color-ink: #2b221c;
+
+  --font-heading: Georgia, Times, serif;
+  --font-base: "Inter Variable", Inter, Arial, sans-serif;
+
+  --breakpoint-mobile: 37.4375rem;
+}
