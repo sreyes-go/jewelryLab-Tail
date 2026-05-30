@@ -10,5 +10,6 @@
   --font-heading: Georgia, Times, serif;
   --font-base: "Inter Variable", Inter, Arial, sans-serif;
 
-  --breakpoint-mobile: 37.4375rem;
+  --breakpoint-mobile: 599px;
+  --breakpoint-tablet: 900px;
 }
